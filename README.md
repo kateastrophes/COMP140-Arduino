@@ -8,5 +8,5 @@ COMPONENTS:
 
 LIBRARIES USED:
 I used two libraries to  help me code my arduino controller controller.
-https://github.com/adafruit/Adafruit_NeoPixel
-https://github.com/miguelbalboa/rfid
+- https://github.com/adafruit/Adafruit_NeoPixel
+- https://github.com/miguelbalboa/rfid
